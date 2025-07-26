@@ -92,7 +92,4 @@
   "engines": {
     "node": ">=20.19.0"
   }
-  "scripts": {
-    "build": "hexo generate"
-  }
 }
