@@ -1,9 +1,4 @@
 {
-  "scripts": {
-    "build": "hexo generate"
-  }
-}
-{
   "name": "hexo",
   "version": "7.3.0",
   "description": "A fast, simple & powerful blog framework, powered by Node.js.",
@@ -96,5 +91,8 @@
   },
   "engines": {
     "node": ">=20.19.0"
+  }
+  "scripts": {
+    "build": "hexo generate"
   }
 }
